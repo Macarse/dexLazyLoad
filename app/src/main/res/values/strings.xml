@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DexLazyLoad</string>
+    <string name="load_image">Load images</string>
+</resources>
